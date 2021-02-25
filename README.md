@@ -21,7 +21,7 @@ Observations: Tabulate area tool was used to compare the area occupied by each c
 
 ## Objective 2: To find suitable areas for grazing cattle, and plan an optimal route from the source to destination. 
 
-# Part 1 Analysis: Two toolboxes were designed to accomplish this task using ModelBuilder. 
+## Part 1 Analysis: Two toolboxes were designed to accomplish this task using ModelBuilder. 
 
 The Area Analysis Toolbox has the suitableareas model. It accepts the Digital Elevation Model and the raster obtained from the classification operation. Suitable areas for grazing cattle is determined using this model. The areas must not be steep, must not be covered in snow or barren. 
 
